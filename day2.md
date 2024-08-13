@@ -1,12 +1,12 @@
 Step one:
-[a link](https://hdlbits.01xz.net/wiki/Step_one)
+[program 1](https://hdlbits.01xz.net/wiki/Step_one)
 
 zero:
-[a link](https://hdlbits.01xz.net/wiki/Zero)
+[program 2](https://hdlbits.01xz.net/wiki/Zero)
 
 wire:
-[a link](https://hdlbits.01xz.net/wiki/Wire)
+[program 3](https://hdlbits.01xz.net/wiki/Wire)
 
 wire 4:
-[a link](https://hdlbits.01xz.net/wiki/Wire4)
+[program 4](https://hdlbits.01xz.net/wiki/Wire4)
 
